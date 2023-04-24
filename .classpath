@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/lib/commons-email-1.5.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itextpdf-5.4.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mysql-connector-java-5.1.49-bin.jar"/>
+	<classpathentry kind="lib" path="dist/lib/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="dist/QLTrungtamtinhoc.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-email-1.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-email-1.5-sources.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-email-1.5-test-sources.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-email-1.5-tests.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-email-1.5.jar"/>
+	<classpathentry kind="lib" path="Lib/itextpdf-5.4.0.jar"/>
+	<classpathentry kind="lib" path="Lib/javamail-connector-4.0.jar"/>
+	<classpathentry kind="lib" path="Lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="Lib/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="Lib/mysql-connector-java-5.1.49-bin.jar"/>
+	<classpathentry kind="lib" path="Lib/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="Lib/poi-4.1.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
